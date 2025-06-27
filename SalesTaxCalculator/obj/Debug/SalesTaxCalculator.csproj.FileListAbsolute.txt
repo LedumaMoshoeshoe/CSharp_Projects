@@ -1,0 +1,11 @@
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.exe.config
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.exe
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\bin\Debug\SalesTaxCalculator.pdb
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.Form1.resources
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.Properties.Resources.resources
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csproj.GenerateResource.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.exe
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\PRG521 Assignments\SalesTaxCalculator\obj\Debug\SalesTaxCalculator.pdb

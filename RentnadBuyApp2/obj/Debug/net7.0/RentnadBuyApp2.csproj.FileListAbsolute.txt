@@ -1,0 +1,14 @@
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\bin\Debug\net7.0\RentnadBuyApp2.exe
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\bin\Debug\net7.0\RentnadBuyApp2.deps.json
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\bin\Debug\net7.0\RentnadBuyApp2.runtimeconfig.json
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\bin\Debug\net7.0\RentnadBuyApp2.dll
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\bin\Debug\net7.0\RentnadBuyApp2.pdb
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.AssemblyInfoInputs.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.AssemblyInfo.cs
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.dll
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\refint\RentnadBuyApp2.dll
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.pdb
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\RentnadBuyApp2.genruntimeconfig.cache
+C:\Users\OEM\OneDrive - CTU Career\Desktop\Assignments and Group Activities\SDD - Games Dev [2023]\RentnadBuyApp2\obj\Debug\net7.0\ref\RentnadBuyApp2.dll

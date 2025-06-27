@@ -1,0 +1,180 @@
+Date/Time: 2023-05-26 3:12:01 pm
+Amount: R100
+Tax Rate: 5%
+Tax: R5.00
+Total: R105.00
+
+Date/Time: 2023-05-26 3:24:52 pm
+Amount: R680
+Tax Rate: 5%
+Tax: R34.00
+Total: R714.00
+
+Date/Time: 2023-05-26 3:28:24 pm
+Amount: R500
+Tax Rate: 1%
+Tax: R5.00
+Total: R505.00
+
+Date/Time: 2023-05-26 3:30:33 pm
+Amount: R800
+Tax Rate: 1%
+Tax: R8.00
+Total: R808.00
+
+Date/Time: 2023-05-26 3:30:58 pm
+Amount: R800
+Tax Rate: 2%
+Tax: R16.00
+Total: R816.00
+
+Date/Time: 2023-05-26 3:31:05 pm
+Amount: R800
+Tax Rate: 3%
+Tax: R24.00
+Total: R824.00
+
+Date/Time: 2023-05-26 3:31:20 pm
+Amount: R800
+Tax Rate: 4%
+Tax: R32.00
+Total: R832.00
+
+Date/Time: 2023-05-26 3:31:57 pm
+Amount: R800
+Tax Rate: 5%
+Tax: R40.00
+Total: R840.00
+
+Date/Time: 2023-05-26 3:32:03 pm
+Amount: R800
+Tax Rate: 6%
+Tax: R48.00
+Total: R848.00
+
+Date/Time: 2023-05-26 3:32:05 pm
+Amount: R800
+Tax Rate: 6%
+Tax: R48.00
+Total: R848.00
+
+Date/Time: 2023-05-26 3:32:15 pm
+Amount: R800
+Tax Rate: 7%
+Tax: R56.00
+Total: R856.00
+
+Date/Time: 2023-05-26 3:32:34 pm
+Amount: R800
+Tax Rate: 8%
+Tax: R64.00
+Total: R864.00
+
+Date/Time: 2023-05-26 3:32:44 pm
+Amount: R800
+Tax Rate: 9%
+Tax: R72.00
+Total: R872.00
+
+Date/Time: 2023-05-26 3:32:50 pm
+Amount: R800
+Tax Rate: 10%
+Tax: R80.0
+Total: R880.0
+
+Date/Time: 2023-05-26 3:32:56 pm
+Amount: R800
+Tax Rate: 11%
+Tax: R88.00
+Total: R888.00
+
+Date/Time: 2023-05-26 3:33:02 pm
+Amount: R800
+Tax Rate: 12%
+Tax: R96.00
+Total: R896.00
+
+Date/Time: 2023-05-26 3:33:12 pm
+Amount: R800
+Tax Rate: 13%
+Tax: R104.00
+Total: R904.00
+
+Date/Time: 2023-05-26 3:33:22 pm
+Amount: R800
+Tax Rate: 14%
+Tax: R112.00
+Total: R912.00
+
+Date/Time: 2023-05-26 3:33:30 pm
+Amount: R800
+Tax Rate: 15%
+Tax: R120.00
+Total: R920.00
+
+Date/Time: 2023-05-26 3:33:39 pm
+Amount: R800
+Tax Rate: 16%
+Tax: R128.00
+Total: R928.00
+
+Date/Time: 2023-05-26 3:33:46 pm
+Amount: R800
+Tax Rate: 17%
+Tax: R136.00
+Total: R936.00
+
+Date/Time: 2023-05-26 3:33:53 pm
+Amount: R800
+Tax Rate: 18%
+Tax: R144.00
+Total: R944.00
+
+Date/Time: 2023-05-26 3:34:05 pm
+Amount: R800
+Tax Rate: 19%
+Tax: R152.00
+Total: R952.00
+
+Date/Time: 2023-05-26 3:34:12 pm
+Amount: R800
+Tax Rate: 20%
+Tax: R160.0
+Total: R960.0
+
+Date/Time: 2023-05-26 3:34:18 pm
+Amount: R800
+Tax Rate: 21%
+Tax: R168.00
+Total: R968.00
+
+Date/Time: 2023-05-26 3:34:23 pm
+Amount: R800
+Tax Rate: 22%
+Tax: R176.00
+Total: R976.00
+
+Date/Time: 2023-05-26 3:34:27 pm
+Amount: R800
+Tax Rate: 23%
+Tax: R184.00
+Total: R984.00
+
+Date/Time: 2023-05-26 3:34:28 pm
+Amount: R800
+Tax Rate: 23%
+Tax: R184.00
+Total: R984.00
+
+Date/Time: 2023-05-26 3:34:33 pm
+Amount: R800
+Tax Rate: 24%
+Tax: R192.00
+Total: R992.00
+
+Date/Time: 2023-05-26 3:34:39 pm
+Amount: R800
+Tax Rate: 25%
+Tax: R200.00
+Total: R1000.00
+
